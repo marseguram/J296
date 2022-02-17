@@ -1,3 +1,3 @@
 # Mar Segura 
 ## Hi, I'm Mar, a journalist.
-![mar'spicture]!
+!['me.jpg','Mar'spicture'](/me.jpg)
