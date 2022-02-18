@@ -8,6 +8,6 @@
 
 Employer | Job title | Job description
 ---------|-----|----------------
-Dow Jones | Data Strategy Intern |* Daily media monitoring* 
-VoteWatch Europe | Research Intern | Investigation on European affairs and geopolitics
-ÀPunt | Radio Reporter | Production
+Dow Jones | Data Strategy Intern |<ul><li>Daily media monitoring</li><li>Verifying information</li></ul>|
+VoteWatch Europe | Research Intern |<ul><li>Investigation on European affairs and geopolitics</li><li>Data visualization</li></ul>|
+ÀPunt | Radio Reporter |<ul><li>Script writing</li><li>Producing daily audio features</li></ul>|
